@@ -9,10 +9,10 @@
 ## 🚀 Featured Projects
 
 ### 🔧 School Projects (42 Paris)
-- **miniRT** – Basic ray tracing rendering engine in C  
-- **minishell** – POSIX-compliant shell built from scratch  
-- **minitalk** – Inter-process communication via UNIX signals  
-- **ft_irc** – IRC server following RFC2812 in C++  
+- **[miniRT](https://github.com/AurelienMarin/miniRT)** – Basic ray tracing rendering engine in C  
+- **[minishell](https://github.com/AurelienMarin/minishell42)** – POSIX-compliant shell built from scratch  
+- **[minitalk](https://github.com/AurelienMarin/minitalk_42)** – Inter-process communication via UNIX signals  
+- **[ft_irc](https://github.com/AurelienMarin/ft_irc)** – IRC server following RFC2812 in C++  
 - **Inception** – Dockerized infrastructure (Nginx, WordPress, MariaDB)
 
 ### 🌱 Personal Projects
