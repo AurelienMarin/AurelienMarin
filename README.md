@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Doe
+# 👋 Hi, I'm Aurélien
 
 🎓 Software Developer trained at school 42 Paris, passionate about problem-solving, clean code, and impactful projects.
 
